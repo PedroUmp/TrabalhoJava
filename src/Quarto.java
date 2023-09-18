@@ -76,5 +76,5 @@ public class Quarto implements Interface {
     public boolean equals(Object objeto) {
         return ocupante == objeto;
     }
-
+    //comparar nao funciona com string
 }
